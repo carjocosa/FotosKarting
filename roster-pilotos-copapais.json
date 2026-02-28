@@ -1,0 +1,378 @@
+ [
+  {
+    "id": "rx.m9o",
+    "num": "4",
+    "nombre": "MATIAS VINUEZA",
+    "equipo": "One Mission Racing 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.h34",
+    "num": "4",
+    "nombre": "DAVID SYLVA",
+    "equipo": "One Mission Racing 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.8me",
+    "num": "7",
+    "nombre": "SARAHY LEÓN",
+    "equipo": "Lion Karting",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.29l",
+    "num": "7",
+    "nombre": "PABLO NOBOA",
+    "equipo": "Lion Karting",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.1v3",
+    "num": "11",
+    "nombre": "PAUL AGUILAR",
+    "equipo": "Lks",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.wmv",
+    "num": "11",
+    "nombre": "IGNACIO AGUILAR",
+    "equipo": "Lks",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.v6z",
+    "num": "50",
+    "nombre": "MARCELLO LONGO",
+    "equipo": "Marcello Longo",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.wq5",
+    "num": "50",
+    "nombre": "GABRIEL RECALDE",
+    "equipo": "Marcello Longo",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.rfm",
+    "num": "6",
+    "nombre": "RICARDO JARAMILLO",
+    "equipo": "One Mission Racing 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.o9j",
+    "num": "6",
+    "nombre": "JAVIER ARBOLEDA",
+    "equipo": "One Mission Racing 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.u7o",
+    "num": "6",
+    "nombre": "CARLOS SAAVEDRA",
+    "equipo": "One Mission Racing 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.9rs",
+    "num": "6",
+    "nombre": "MARLON BAQUERO",
+    "equipo": "One Mission Racing 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.uj0",
+    "num": "46",
+    "nombre": "ANDRE BENAVIDES",
+    "equipo": "One Mission Racing 3",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.hm9",
+    "num": "46",
+    "nombre": "JEFFERSON CABRERA",
+    "equipo": "One Mission Racing 3",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.uzk",
+    "num": "1",
+    "nombre": "PATRICIO LARREA",
+    "equipo": "Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.jxm",
+    "num": "1",
+    "nombre": "DOME ARELLANO",
+    "equipo": "Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.0o4",
+    "num": "9",
+    "nombre": "KIKE JAV",
+    "equipo": "Fk/M96",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.v0z",
+    "num": "9",
+    "nombre": "BENJAMÍN GAVILÁNEZ",
+    "equipo": "Fk/M96",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.nti",
+    "num": "5",
+    "nombre": "PAOLO CASTILLO",
+    "equipo": "Xpert 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.fpf",
+    "num": "5",
+    "nombre": "ELIAS SANCHEZ",
+    "equipo": "Xpert 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.m4q",
+    "num": "58",
+    "nombre": "DYLAN VELASQUEZ",
+    "equipo": "Xpert 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.uhi",
+    "num": "58",
+    "nombre": "SEBASTIAN ECHEVERRIA",
+    "equipo": "Xpert 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.tf3",
+    "num": "8",
+    "nombre": "JORGE TRONCOSO",
+    "equipo": "Xpert 3",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.k3p",
+    "num": "8",
+    "nombre": "PABLO SANCHEZ",
+    "equipo": "Xpert 3",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.eig",
+    "num": "23",
+    "nombre": "TITO FREIRE",
+    "equipo": "Kpt 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.d1r",
+    "num": "23",
+    "nombre": "DARLING GUAJALA",
+    "equipo": "Kpt 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.z0h",
+    "num": "23",
+    "nombre": "MARCELO LOPEZ",
+    "equipo": "Kpt 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.nh3",
+    "num": "23",
+    "nombre": "PAUL UNAUCHO",
+    "equipo": "Kpt 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.wr3",
+    "num": "20",
+    "nombre": "ANDRÉS YUGSI",
+    "equipo": "Fórmula Kart",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.wjw",
+    "num": "20",
+    "nombre": "JORDY YUGSI",
+    "equipo": "Fórmula Kart",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.oho",
+    "num": "48",
+    "nombre": "LENNIN ZURITA",
+    "equipo": "Kpt 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.fwa",
+    "num": "48",
+    "nombre": "MATÍAS BORJA",
+    "equipo": "Kpt 2",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.ezd",
+    "num": "25",
+    "nombre": "JUAN PAUL ZAPATA",
+    "equipo": "Team Escuela 1",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.99a",
+    "num": "49",
+    "nombre": "ANDRES CHAVEZ",
+    "equipo": "Expert Karting",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.5a6",
+    "num": "49",
+    "nombre": "DIEGO CHAVEZ",
+    "equipo": "Expert Karting",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.sl8",
+    "num": "18",
+    "nombre": "ANTONIO VILLAMARIN TOAPANTA",
+    "equipo": "Fk/M94",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.o6z",
+    "num": "18",
+    "nombre": "SANTIAGO PACÍFICO ÁVILA MOLINA",
+    "equipo": "Fk/M94",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.d95",
+    "num": "55",
+    "nombre": "DIEGO MORA",
+    "equipo": "Mora Racing Team",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.9wr",
+    "num": "55",
+    "nombre": "AMARU MORA",
+    "equipo": "Mora Racing Team",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.lag",
+    "num": "5",
+    "nombre": "ALEJANDRO AYALA",
+    "equipo": "Kpt Pro Escuela Eka",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.0ly",
+    "num": "5",
+    "nombre": "JHORDAN VALLE",
+    "equipo": "Kpt Pro Escuela Eka",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.220",
+    "num": "27",
+    "nombre": "FRANCO LARREA",
+    "equipo": "Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.ov5",
+    "num": "27",
+    "nombre": "BRUCE DUTHAN",
+    "equipo": "Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.j9r",
+    "num": "22",
+    "nombre": "MATIAS BORJA",
+    "equipo": "Super Karts/Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.mg7",
+    "num": "22",
+    "nombre": "MATEO MONROY",
+    "equipo": "Super Karts/Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.cv8",
+    "num": "22",
+    "nombre": "FELIPE LÓPEZ",
+    "equipo": "Super Karts/Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  },
+  {
+    "id": "rx.kc5",
+    "num": "22",
+    "nombre": "ALVARO ESPINOSA",
+    "equipo": "Super Karts/Kpt",
+    "pais": "🇪🇨",
+    "foto": ""
+  }
+]
